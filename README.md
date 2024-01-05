@@ -24,6 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/a/PJPX88Z.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Video Walkthrough](https://imgur.com/a/PJPX88Z.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
